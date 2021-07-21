@@ -10,7 +10,7 @@
   "author": "Michael Scott Hertzberg <mshertzberg@gmail.com> (https://hertzber.gs)",
   "license": "MIT",
   "dependencies": {
-    "duplexify": "^3.6.0",
+    "duplexify": "^4.1.2",
     "into-stream": "^3.1.0",
     "meow": "^5.0.0"
   }
